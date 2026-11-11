@@ -18,7 +18,7 @@ Power BI Development
 
 Interactivity: Added date-range and department slicers for dynamic filtering.
 
-Tools & Technologies
-  Python (Spyder) · Excel · Power BI · DAX
+Tools:
+  Python (Spyder), Excel,Power BI,DAX
 
 Note: This project uses synthetic data for learning and demonstration purposes. Results do not represent actual hospital performance.
